@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.f0df6066.css","mappings":"AAAA,SACI,YACJ,CACA,SACI,eAAgB,CAChB,gBACJ,CAEA,WACI,4BACJ","sources":["Components/Todoapp.css"],"sourcesContent":[".min-row{\r\n    height: 100vh;\r\n}\r\n.min-col{\r\n    max-width: 500px;\r\n    min-height: 300px;\r\n}\r\n\r\n.todo-done{\r\n    text-decoration: line-through;\r\n}"],"names":[],"sourceRoot":""}
